@@ -35,7 +35,6 @@ class Solution {
 }
 
 
-
 4. LC_1025(Divisor Game)
 
 class Solution {
@@ -109,6 +108,7 @@ public:
     }
 };
 
+
 10. LC_2485(Find the Pivot Integer)
 
 class Solution {
@@ -120,8 +120,6 @@ class Solution {
         return -1;
     }
 }
-
-
 
 11. LC_2600(K Items With the Maximum Sum
 
@@ -136,6 +134,7 @@ class Solution {
         return sum;
     }
 }
+
 12. LC_2549(Count Distinct Numbers on Board)
 
 class Solution {
@@ -144,6 +143,7 @@ class Solution {
         return n - 1;
     }
 }
+
 
 13. LC_2769(Find the Maximum Achievable Number)
 
@@ -163,6 +163,7 @@ class Solution {
     }
 }
 
+
 15. LC_2582(Pass the Pillow)
 
 class Solution {
@@ -176,4 +177,5 @@ class Solution {
         }
     }
 }
+
 
